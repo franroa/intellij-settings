@@ -1,0 +1,63 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="VW_PROD_CLIENT_SECRET" type="AUTO_DETECTED" />
+      <mapping pattern="AZURE_CLIENT" type="AUTO_DETECTED" />
+      <mapping pattern="tmp" type="AUTO_DETECTED" />
+      <mapping pattern="hardened_Dockerfile" type="AUTO_DETECTED" />
+      <mapping pattern="AZURE_CLIENT_SECRET" type="AUTO_DETECTED" />
+      <mapping pattern="install-controller" type="AUTO_DETECTED" />
+      <mapping pattern="dockerconfig" type="AUTO_DETECTED" />
+      <mapping pattern="disble-node" type="AUTO_DETECTED" />
+      <mapping pattern="RTO" type="AUTO_DETECTED" />
+      <mapping pattern="iam" type="AUTO_DETECTED" />
+      <mapping pattern="pod-role" type="AUTO_DETECTED" />
+      <mapping pattern="notes-to-test-sh" type="AUTO_DETECTED" />
+      <mapping pattern="todo" type="AUTO_DETECTED" />
+      <mapping pattern="names" type="AUTO_DETECTED" />
+      <mapping pattern="francisco2" type="AUTO_DETECTED" />
+      <mapping pattern="kubeconfig2" type="AUTO_DETECTED" />
+      <mapping pattern="notes" type="AUTO_DETECTED" />
+      <mapping pattern="auth" type="AUTO_DETECTED" />
+      <mapping pattern="update-config" type="AUTO_DETECTED" />
+      <mapping pattern="aws-export-profile" type="AUTO_DETECTED" />
+      <mapping pattern="aws-env" type="AUTO_DETECTED" />
+      <mapping pattern="AZURE_CLIENT2" type="AUTO_DETECTED" />
+      <mapping pattern="access_key" type="AUTO_DETECTED" />
+      <mapping pattern=".env.*" type="Env File" />
+      <mapping ext="env" type="Env File" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="curl" type="PLAIN_TEXT" />
+      <mapping pattern="ssh" type="PLAIN_TEXT" />
+      <mapping pattern="templates" type="PLAIN_TEXT" />
+      <mapping pattern=".helmignore" type="PLAIN_TEXT" />
+      <mapping pattern="postgres-password" type="PLAIN_TEXT" />
+      <mapping pattern="aos-password" type="PLAIN_TEXT" />
+      <mapping pattern="inventory-sew" type="PLAIN_TEXT" />
+      <mapping pattern="ssh-kind" type="PLAIN_TEXT" />
+      <mapping pattern="aliases" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="eks_test" type="PLAIN_TEXT" />
+      <mapping pattern="vault_pass" type="PLAIN_TEXT" />
+      <mapping pattern="inventory-niklas" type="PLAIN_TEXT" />
+      <mapping ext="josn" type="PLAIN_TEXT" />
+      <mapping ext="yaml" type="PLAIN_TEXT" />
+      <mapping ext="backend" type="PLAIN_TEXT" />
+      <mapping ext="plan" type="PLAIN_TEXT" />
+      <mapping ext="me" type="PLAIN_TEXT" />
+      <mapping ext="gotmpl" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="gpg" type="PLAIN_TEXT" />
+      <mapping pattern="vpc-load-balancer-export-values" type="YAML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="yaml" approved="true" type="SnakeYAML" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
+      <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
+      <removed_mapping ext="yml" approved="true" type="YAML" />
+      <removed_mapping pattern=".helmignore" approved="true" type="Kubernetes Helm File" />
+    </extensionMap>
+  </component>
+</application>

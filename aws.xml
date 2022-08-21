@@ -1,0 +1,24 @@
+<application>
+  <component name="aws">
+    <option name="promptedForTelemetry" value="true" />
+  </component>
+  <component name="experiments">
+    <option name="nextSuggestion">
+      <map>
+        <entry key="jsonResourceModification" value="1659426343176" />
+      </map>
+    </option>
+  </component>
+  <component name="resources">
+    <option name="selected">
+      <list>
+        <option value="AWS::EKS::Cluster" />
+        <option value="AWS::IAM::Role" />
+        <option value="AWS::IAM::OIDCProvider" />
+        <option value="AWS::EC2::VPC" />
+        <option value="AWS::EC2::NetworkInterface" />
+        <option value="AWS::EC2::InternetGateway" />
+      </list>
+    </option>
+  </component>
+</application>
