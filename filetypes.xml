@@ -40,7 +40,6 @@
       <mapping pattern="inventory-sew" type="PLAIN_TEXT" />
       <mapping pattern="inventory-niklas" type="PLAIN_TEXT" />
       <mapping ext="josn" type="PLAIN_TEXT" />
-      <mapping ext="yaml" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="backend" type="PLAIN_TEXT" />
       <mapping ext="gotmpl" type="PLAIN_TEXT" />
