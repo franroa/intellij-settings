@@ -1,0 +1,3 @@
+- Autocomplete terraform
+- GO templates
+- Autocomplete helm
